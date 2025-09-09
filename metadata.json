@@ -1,0 +1,5 @@
+{
+  "name": "AI Code Assistant",
+  "description": "An intelligent coding assistant that refactors and enhances your code snippets, provides explanations, generates flowcharts, and analyzes complexity.",
+  "requestFramePermissions": []
+}
